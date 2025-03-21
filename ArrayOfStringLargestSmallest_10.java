@@ -6,7 +6,7 @@ public class ArrayOfStringLargestSmallest_10 {
 	
 	public static void main(String[] args) {
 		
-		String[] s= {"tanvir","Altaf","deepak","Mureth","Car","Employ"};
+		String[] s= {"tanvir","Altaf","deepak","Mureth","Car","Employ","mallu"};
 		
 		String largest=s[0];
 		String smallest=s[0];
